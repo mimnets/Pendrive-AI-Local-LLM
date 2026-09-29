@@ -75,8 +75,6 @@ To use it, simply plug the USB drive into your device. Your computer will handle
 
 ### Running the AI Offline
 
-**02:38 - 03:10**
-
 * Plug the USB drive into any PC or laptop.
 
 
